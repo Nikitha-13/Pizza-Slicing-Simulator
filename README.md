@@ -10,3 +10,7 @@ Welcome to the Pizza Slicing Simulator! This simple Python script allows you to 
 * Slicing the pizza into {num_slices} slices:
 * Slice 1: {slice_size} degrees
 * Slice 2: {slice_size} degrees
+
+## Note
+* Ensure the number of slices is greater than 0 for a valid pizza slicing experience.
+* The script calculates the slice size based on a standard 360-degree pizza.
