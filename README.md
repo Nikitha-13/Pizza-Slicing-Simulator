@@ -16,3 +16,5 @@ Welcome to the Pizza Slicing Simulator! This simple Python script allows you to 
 * The script calculates the slice size based on a standard 360-degree pizza.
 
 If you have any queries feel free to contact me at pindinikitha00@gmail.com or at https://www.linkedin.com/in/Nikitha-pindi.
+
+Have a Great Learning :)
