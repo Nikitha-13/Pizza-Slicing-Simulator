@@ -4,7 +4,7 @@ Welcome to the Pizza Slicing Simulator! This simple Python script allows you to 
 
 ## Usage
 1 Input: Run the script and enter the number of slices you want when prompted.
-* Enter the number of slices you want:
+* Enter the number of slices you want :
 
 2 Output: The script will then display the pizza slicing information, specifying the degrees for each slice.
 * Slicing the pizza into {num_slices} slices :
